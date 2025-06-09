@@ -1,2 +1,7 @@
-# labofi-lp-github-pages
-# labofi-lp-github-pages
+# labofi
+
+このページはgithub-page用のリポジトリです。
+
+URLにリポジトリ名が含まれるため、リポジトリ名が命名規則に則っていません。
+
+ご了承ください。
