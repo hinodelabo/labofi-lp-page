@@ -13,7 +13,7 @@ https://labofi.com
 ↓
 [ALB (HTTPS:443)]
 ↓ HTTP (9000)
-[EC2 (nginx in Docker)]
+[EC2 t4g.micro (nginx in Docker)]
 ↓
 [GitHub Pages (proxy_pass)]
 ```
